@@ -1,3 +1,4 @@
 fastapi==0.115.0
 hypercorn==0.17.3
 aiofiles==24.1.0
+tqdm==4.66.5
